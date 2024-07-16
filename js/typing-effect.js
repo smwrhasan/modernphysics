@@ -1,9 +1,8 @@
 document.addEventListener("DOMContentLoaded", () => {
     const headerTexts = [
-        "Higher Math 2nd Paper ",
+        "Physics 2nd Paper ",
         "Welcome to the Best Learning Experience",
-        "Rhombus Parallel Science Hub",
-        "Chapter 8 : Statics"
+        "Chapter 8 : Modern Physics"
     ];
     const headerElement = document.getElementById("header-text");
     let textIndex = 0;

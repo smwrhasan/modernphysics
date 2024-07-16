@@ -4,35 +4,35 @@ const classes = [
         number: 1,
         title: "Class number 1",
         description: "",
-        videoId: "HrZha1oBZuc",
+        videoId: "br-G7NlzUiw",
         lectureSheet: "https://drive.google.com/file/d/1FBUnGJGfYWqyxV7cBOEAWwK0XDk3PziL/view"
     },
     {
         number: 2,
         title: "Class number 2",
         description: " ",
-        videoId: "lCoEvGXsIYI",
+        videoId: "1xH8qNi8zY4",
         lectureSheet: "  "
     },
     {
         number: 3,
         title: "Class number 2",
         description: " ",
-        videoId: "Gwxucyv-TnY",
+        videoId: "N3HImAF5Pdo",
         lectureSheet: "  "
     },
     {
         number: 4,
         title: "Class number 2",
         description: " ",
-        videoId: "H9-vLjWLt7w",
+        videoId: "e9TmG0E6eYs",
         lectureSheet: "  "
     },
     {
         number: 5,
         title: "Class number 2",
         description: " ",
-        videoId: "6b36cyfgcTo",
+        videoId: "T-pirhGD4AA",
         lectureSheet: "  "
     },
     
@@ -40,7 +40,7 @@ const classes = [
         number: 6,
         title: "Class number 6",
         description: "Learn about force vectors and their properties.",
-        videoId: "CC7ynexXyJo",
+        videoId: "Z7PkmcGKItU",
         lectureSheet: "https://drive.google.com/file/d/1gVCqETudMIpPL_Dg0ZyaZlzXBHb1mkb0/view"
     }
     ,
@@ -48,7 +48,7 @@ const classes = [
         number: 7,
         title: "Class number 7",
         description: " ",
-        videoId: "6oetC2IWu3E",
+        videoId: "QjMiWb9IfMg",
         lectureSheet: "https://drive.google.com/file/d/1R5cNOT8TRzB6IZs-XDAVEMwLHfQsdDFm/view"
     }
     ,
@@ -56,7 +56,7 @@ const classes = [
         number: 8,
         title: "Class number 8",
         description: " ",
-        videoId: "Eta-EfkdXi0",
+        videoId: "UqZoh8O2wxQ",
         lectureSheet: " "
     }
     ,
@@ -64,7 +64,7 @@ const classes = [
         number: 9,
         title: "Class number 9",
         description: " ",
-        videoId: "K0BsDJ4TuC8",
+        videoId: "SiuU5a6PWrI",
         lectureSheet: " "
     }
     ,
@@ -72,42 +72,9 @@ const classes = [
         number: 10,
         title: "Class number 10",
         description: " ",
-        videoId: "MswnUVe-75w",
+        videoId: "XpYpGL496EU",
         lectureSheet: ""
     }
-    ,
-    {
-        number: 11,
-        title: "Class number 11",
-        description: " ",
-        videoId: "Rt3DVR5DYFE",
-        lectureSheet: " "
-    }
-    ,
-    {
-        number: 12,
-        title: "Class number 8",
-        description: " ",
-        videoId: "zRfys4qeFE4",
-        lectureSheet: " "
-    }
-    ,
-    {
-        number: 13,
-        title: "Class number 8",
-        description: " ",
-        videoId: "noby2kAgYe4",
-        lectureSheet: " "
-    }
-    ,
-    {
-        number: 14,
-        title: "Class number 8",
-        description: " ",
-        videoId: "_Yz2usAzvNg",
-        lectureSheet: "https://drive.google.com/file/u/0/d/16oeDrp4PNS9MpGt8cOMwCJvoUjBMVbTN/view"
-    }
-
 
     
     // Add more classes as needed
